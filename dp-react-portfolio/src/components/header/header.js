@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export default function Header() {
     return(
     <header>
@@ -9,13 +10,15 @@ export default function Header() {
                     <div id="name">David Pollan</div>
                 </div>
                 <div class="col-sm-12 col-md-8">
+
                     <nav>
                         <ul>
-                            <li><a href="index.html">About</a></li>
-                            <li><a href="portfolio.html">Portfolio</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/">About</a></li>
+                            <li><a href="/portfolio">Portfolio</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                     </nav>
+
                 </div>
             </div>
         </div>
