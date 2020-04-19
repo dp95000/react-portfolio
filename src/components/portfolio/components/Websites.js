@@ -35,7 +35,7 @@ function Wesites() {
             </div>
             {/* =========== End Block 1 ============= */}
 
-            {/* =========== Block 1 ============= */}
+            {/* =========== Block 2 ============= */}
             <div class="container portfolio-contain">
                 <div class="row">
 
@@ -55,7 +55,7 @@ function Wesites() {
 
                 </div>
             </div>
-            {/* =========== End Block 1 ============= */}
+            {/* =========== End Block 2 ============= */}
 
         </div>
         );

@@ -13,6 +13,7 @@ function WebApps() {
             <h3>Web Applications</h3>
         </div>
         
+        {/* =========== Block 1 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -24,7 +25,9 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 1 ============= */}
 
+        {/* =========== Block 2 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -35,7 +38,9 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 2 ============= */}
 
+        {/* =========== Block 3 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -47,7 +52,9 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 3 ============= */}
 
+        {/* =========== Block 4 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -59,7 +66,9 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 4 ============= */}
 
+        {/* =========== Block 5 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -70,7 +79,9 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 5 ============= */}
 
+        {/* =========== Block 6 ============= */}
         <div class="container portfolio-contain">
             <div class="row">
                 <div class="col-sm-12 col-md-12 webapp">
@@ -81,6 +92,7 @@ function WebApps() {
                 </div>
             </div>
         </div>
+        {/* =========== End Block 6 ============= */}
 
         </div>
     );
